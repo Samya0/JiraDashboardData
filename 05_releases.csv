@@ -1,0 +1,14 @@
+Release Name,Project,Planned Date,Actual Date,Release Status
+RATP v1.0 - Core Fleet Tracking,RATP,2025-04-15,2025-04-22,Released
+RATP v1.1 - Predictive Maintenance,RATP,2025-08-01,2025-08-12,Released
+RATP v1.2 - Real-Time Dashboards,RATP,2025-12-10,2026-01-05,Released
+RATP v2.0 - Multi-Depot Rollout,RATP,2026-05-15,,Delayed
+ASN v1.0 - Cable Monitoring Core,ASN,2025-06-01,2025-06-20,Released
+ASN v1.1 - Alerting Engine,ASN,2025-10-01,2025-11-03,Released
+ASN v1.2 - Network Topology Viewer,ASN,2026-02-15,,Delayed
+ASN v2.0 - Predictive Fault Detection,ASN,2026-06-01,,Planned
+Client X v1.0 - Account Onboarding,CLTX,2025-05-20,2025-05-20,Released
+Client X v1.1 - Payments Module,CLTX,2025-08-15,2025-08-17,Released
+Client X v1.2 - Fraud Detection,CLTX,2025-11-10,2025-11-09,Released
+Client X v2.0 - Mobile Banking,CLTX,2026-02-01,2026-02-03,Released
+Client X v2.1 - Open Banking API,CLTX,2026-08-01,,Planned

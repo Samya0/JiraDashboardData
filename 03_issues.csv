@@ -1,0 +1,156 @@
+Issue Key,Project,Issue Type,Priority,Status,Assignee,Reporter,Created Date,Due Date,Sprint,Story Points,Resolution Time (days),Severity,Labels
+RATP-001,RATP,Story,Medium,In Progress,Antoine Girard,Manon Dubois,2025-10-05,2026-08-06,RATP-SPR-03,8,,N/A,security;ui
+RATP-002,RATP,Epic,Medium,Done,Emma Rousseau,Camille Laurent,2025-12-18,2025-12-28,RATP-SPR-04,13,13,N/A,mobile;performance;regression
+RATP-003,RATP,Bug,Medium,Done,Lucas Bernard,Manon Dubois,2025-12-05,2025-12-21,RATP-SPR-10,0,18,Minor,customer-reported;mobile
+RATP-004,RATP,Story,High,Blocked,Antoine Girard,Manon Dubois,2026-01-17,2026-07-12,RATP-SPR-07,13,,N/A,compliance;frontend;ui
+RATP-005,RATP,Story,Medium,In Progress,Antoine Girard,Antoine Girard,2026-02-02,2026-08-07,RATP-SPR-05,13,,N/A,api;integration
+RATP-006,RATP,Bug,Medium,Done,Chloe Petit,Camille Laurent,2026-05-14,2026-06-01,RATP-SPR-03,1,17,Minor,api;infrastructure
+RATP-007,RATP,Story,Medium,Done,Manon Dubois,Camille Laurent,2025-01-15,2025-02-11,Backlog,1,12,N/A,backend;database
+RATP-008,RATP,Bug,Medium,To Do,Chloe Petit,Manon Dubois,2026-04-02,2026-08-10,Backlog,0,,Minor,security
+RATP-009,RATP,Story,Medium,Blocked,Emma Rousseau,Antoine Girard,2026-05-30,2026-08-08,Backlog,5,,N/A,integration;performance;urgent
+RATP-010,RATP,Story,High,To Do,Emma Rousseau,Camille Laurent,2025-03-23,2026-08-04,RATP-SPR-01,1,,N/A,frontend
+RATP-011,RATP,Task,Low,To Do,Nicolas Fabre,Chloe Petit,2025-09-20,2026-07-23,RATP-SPR-07,2,,N/A,frontend
+RATP-012,RATP,Bug,Medium,Testing,Nicolas Fabre,Camille Laurent,2026-01-01,2026-08-07,RATP-SPR-02,2,,Minor,database
+RATP-013,RATP,Bug,Medium,Testing,Hugo Martin,Chloe Petit,2025-10-11,2026-07-11,Backlog,0,,Critical,frontend
+RATP-014,RATP,Task,Low,In Progress,Camille Laurent,Manon Dubois,2026-01-08,2026-06-20,RATP-SPR-07,5,,N/A,infrastructure;mobile
+RATP-015,RATP,Task,High,Done,Manon Dubois,Manon Dubois,2026-01-03,2026-02-14,RATP-SPR-01,2,10,N/A,backend;regression;urgent
+RATP-016,RATP,Task,Highest,Done,Nicolas Fabre,Camille Laurent,2025-10-25,2025-12-04,Backlog,8,3,N/A,customer-reported
+RATP-017,RATP,Bug,Low,Testing,Chloe Petit,Camille Laurent,2026-06-03,2026-08-04,RATP-SPR-10,3,,Critical,database;performance;security
+RATP-018,RATP,Story,High,In Progress,Chloe Petit,Camille Laurent,2025-07-15,2026-07-31,RATP-SPR-10,1,,N/A,frontend
+RATP-019,RATP,Story,Medium,To Do,Chloe Petit,Antoine Girard,2025-11-13,2026-06-30,RATP-SPR-09,2,,N/A,customer-reported;infrastructure;security
+RATP-020,RATP,Story,Highest,Done,Nicolas Fabre,Antoine Girard,2025-08-19,2025-09-01,RATP-SPR-03,1,4,N/A,customer-reported;security
+RATP-021,RATP,Bug,High,Done,Hugo Martin,Antoine Girard,2026-02-22,2026-04-02,RATP-SPR-01,0,14,Critical,performance
+RATP-022,RATP,Task,Medium,In Progress,Camille Laurent,Camille Laurent,2026-04-05,2026-07-30,Backlog,1,,N/A,api;mobile;urgent
+RATP-023,RATP,Bug,Medium,Done,Lucas Bernard,Antoine Girard,2025-10-03,2025-10-12,RATP-SPR-02,0,7,Trivial,infrastructure;urgent
+RATP-024,RATP,Task,Medium,Done,Nicolas Fabre,Manon Dubois,2025-06-17,2025-07-09,RATP-SPR-06,5,1,N/A,infrastructure;technical-debt
+RATP-025,RATP,Task,Low,In Progress,Manon Dubois,Manon Dubois,2026-04-19,2026-07-13,RATP-SPR-08,2,,N/A,compliance;security
+RATP-026,RATP,Task,High,To Do,Lucas Bernard,Antoine Girard,2025-08-25,2026-07-11,RATP-SPR-09,13,,N/A,backend;frontend
+RATP-027,RATP,Task,High,Done,Antoine Girard,Chloe Petit,2026-05-29,2026-06-07,RATP-SPR-07,3,24,N/A,frontend;ui;urgent
+RATP-028,RATP,Task,High,To Do,Emma Rousseau,Antoine Girard,2025-12-20,2026-08-11,RATP-SPR-06,5,,N/A,frontend;performance;technical-debt
+RATP-029,RATP,Task,High,In Progress,Nicolas Fabre,Manon Dubois,2025-12-09,2026-07-26,RATP-SPR-07,5,,N/A,api;customer-reported;regression
+RATP-030,RATP,Story,Medium,Done,Hugo Martin,Antoine Girard,2025-08-21,2025-09-10,RATP-SPR-04,5,15,N/A,compliance;infrastructure;integration
+RATP-031,RATP,Task,Medium,In Progress,Emma Rousseau,Antoine Girard,2026-03-11,2026-07-19,RATP-SPR-03,2,,N/A,backend
+RATP-032,RATP,Bug,Medium,Done,Chloe Petit,Manon Dubois,2025-04-27,2025-05-30,RATP-SPR-01,2,8,Major,infrastructure
+RATP-033,RATP,Story,High,Blocked,Antoine Girard,Chloe Petit,2026-01-20,2026-06-30,RATP-SPR-09,2,,N/A,customer-reported;infrastructure;performance
+RATP-034,RATP,Task,Medium,Done,Manon Dubois,Manon Dubois,2025-10-25,2025-12-06,RATP-SPR-04,13,16,N/A,compliance;infrastructure;security
+RATP-035,RATP,Story,Medium,In Progress,Chloe Petit,Antoine Girard,2025-06-01,2026-06-28,RATP-SPR-03,8,,N/A,ui
+RATP-036,RATP,Story,Medium,To Do,Camille Laurent,Manon Dubois,2025-12-08,2026-07-30,RATP-SPR-10,5,,N/A,backend;compliance;infrastructure
+RATP-037,RATP,Story,Medium,Blocked,Emma Rousseau,Chloe Petit,2025-10-21,2026-06-19,RATP-SPR-08,2,,N/A,ui
+RATP-038,RATP,Story,Medium,Testing,Camille Laurent,Chloe Petit,2025-08-08,2026-07-21,RATP-SPR-01,8,,N/A,technical-debt
+RATP-039,RATP,Story,Low,In Progress,Chloe Petit,Antoine Girard,2025-10-02,2026-06-16,RATP-SPR-07,5,,N/A,compliance;frontend
+RATP-040,RATP,Story,Medium,To Do,Camille Laurent,Camille Laurent,2026-06-07,2026-07-11,RATP-SPR-01,2,,N/A,api;database;mobile
+RATP-041,RATP,Story,High,Blocked,Nicolas Fabre,Camille Laurent,2025-12-31,2026-06-22,Backlog,2,,N/A,customer-reported
+RATP-042,RATP,Bug,High,Done,Emma Rousseau,Camille Laurent,2026-04-30,2026-06-01,RATP-SPR-05,3,21,Minor,customer-reported;frontend;infrastructure
+RATP-043,RATP,Task,Medium,To Do,Chloe Petit,Camille Laurent,2026-01-25,2026-07-19,RATP-SPR-02,5,,N/A,performance;technical-debt
+RATP-044,RATP,Task,Medium,In Progress,Lucas Bernard,Chloe Petit,2025-08-15,2026-08-06,RATP-SPR-10,5,,N/A,compliance;performance
+RATP-045,RATP,Bug,Low,In Progress,Chloe Petit,Chloe Petit,2025-12-26,2026-08-04,Backlog,1,,Critical,integration
+RATP-046,RATP,Bug,Medium,In Progress,Chloe Petit,Camille Laurent,2026-05-15,2026-07-25,RATP-SPR-07,3,,Trivial,infrastructure;urgent
+RATP-047,RATP,Bug,Medium,Done,Nicolas Fabre,Antoine Girard,2025-10-09,2025-10-17,RATP-SPR-10,0,8,Major,integration;urgent
+RATP-048,RATP,Story,Medium,Done,Lucas Bernard,Antoine Girard,2025-08-31,2025-10-06,RATP-SPR-04,3,8,N/A,frontend;regression
+RATP-049,RATP,Story,Medium,In Progress,Lucas Bernard,Camille Laurent,2025-09-08,2026-08-09,RATP-SPR-06,2,,N/A,security
+RATP-050,RATP,Bug,Medium,In Progress,Emma Rousseau,Chloe Petit,2026-06-17,2026-08-08,RATP-SPR-08,0,,Trivial,integration;performance
+RATP-051,RATP,Bug,Highest,Blocked,Hugo Martin,Camille Laurent,2026-01-05,2026-07-29,RATP-SPR-03,3,,Minor,database;frontend;security
+RATP-052,RATP,Bug,Medium,Done,Chloe Petit,Chloe Petit,2026-01-26,2026-02-16,Backlog,2,10,Trivial,customer-reported;security
+RATP-053,RATP,Story,Medium,Done,Emma Rousseau,Antoine Girard,2026-04-21,2026-05-11,RATP-SPR-03,13,3,N/A,api;backend;frontend
+RATP-054,RATP,Story,Medium,Done,Lucas Bernard,Chloe Petit,2025-03-21,2025-04-15,RATP-SPR-03,1,22,N/A,customer-reported;infrastructure;technical-debt
+RATP-055,RATP,Task,Medium,Done,Nicolas Fabre,Camille Laurent,2025-12-06,2025-12-30,RATP-SPR-10,1,6,N/A,compliance;customer-reported;security
+ASN-001,ASN,Story,Medium,In Progress,Camille Faure,Lea Robert,2025-12-17,2026-06-11,ASN-SPR-07,1,,N/A,customer-reported;performance;security
+ASN-002,ASN,Bug,High,Done,Thomas Girard,Sophie Lainé,2026-03-05,2026-04-18,ASN-SPR-09,3,25,Critical,api;integration;security
+ASN-003,ASN,Epic,Medium,Done,Lea Robert,Lea Robert,2026-05-14,2026-06-20,ASN-SPR-03,13,11,N/A,regression;ui
+ASN-004,ASN,Story,Medium,Testing,Lea Robert,Sophie Lainé,2026-04-15,2026-07-10,ASN-SPR-07,3,,N/A,backend;compliance;technical-debt
+ASN-005,ASN,Task,Medium,To Do,Camille Faure,Julien Moreau,2026-01-29,2026-08-01,ASN-SPR-03,2,,N/A,integration;regression
+ASN-006,ASN,Story,Highest,Done,Alexandre Fontaine,Julien Moreau,2026-02-07,2026-02-24,ASN-SPR-02,8,14,N/A,frontend;technical-debt
+ASN-007,ASN,Task,Medium,Done,Maxime Simon,Lea Robert,2025-11-09,2025-12-03,ASN-SPR-03,5,8,N/A,customer-reported;database
+ASN-008,ASN,Story,Low,Done,Lea Robert,Sophie Lainé,2025-08-27,2025-09-29,ASN-SPR-10,1,10,N/A,api;integration;technical-debt
+ASN-009,ASN,Story,Medium,In Progress,Marine Leroy,Camille Faure,2026-04-16,2026-06-25,ASN-SPR-07,8,,N/A,performance
+ASN-010,ASN,Task,Medium,Done,Camille Faure,Julien Moreau,2025-10-04,2025-10-20,Backlog,2,17,N/A,compliance;frontend
+ASN-011,ASN,Task,Medium,Done,Maxime Simon,Camille Faure,2025-10-25,2025-11-10,ASN-SPR-05,1,16,N/A,customer-reported;regression
+ASN-012,ASN,Story,Highest,In Progress,Camille Faure,Julien Moreau,2026-03-21,2026-07-27,ASN-SPR-05,8,,N/A,regression
+ASN-013,ASN,Bug,Low,Done,Maxime Simon,Camille Faure,2026-01-04,2026-01-17,ASN-SPR-01,1,2,Trivial,mobile;performance
+ASN-014,ASN,Story,High,Testing,Sophie Lainé,Lea Robert,2026-03-23,2026-07-04,ASN-SPR-08,8,,N/A,api;database;integration
+ASN-015,ASN,Story,Medium,Done,Alexandre Fontaine,Camille Faure,2026-03-25,2026-04-30,Backlog,1,15,N/A,security;technical-debt;ui
+ASN-016,ASN,Story,Medium,In Progress,Marine Leroy,Lea Robert,2026-07-11,2026-07-20,ASN-SPR-05,8,,N/A,backend;security;technical-debt
+ASN-017,ASN,Story,Highest,Done,Camille Faure,Sophie Lainé,2026-01-30,2026-02-09,ASN-SPR-04,2,20,N/A,customer-reported;database;security
+ASN-018,ASN,Story,Medium,Done,Julien Moreau,Sophie Lainé,2026-02-23,2026-03-08,ASN-SPR-03,5,2,N/A,mobile
+ASN-019,ASN,Bug,Medium,In Progress,Lea Robert,Lea Robert,2025-08-04,2026-07-28,ASN-SPR-08,1,,Minor,compliance;regression
+ASN-020,ASN,Story,High,Blocked,Maxime Simon,Sophie Lainé,2025-08-09,2026-08-13,ASN-SPR-01,1,,N/A,frontend;urgent
+ASN-021,ASN,Story,Medium,Done,Sophie Lainé,Camille Faure,2025-11-29,2025-12-29,ASN-SPR-09,5,1,N/A,customer-reported;mobile
+ASN-022,ASN,Bug,Highest,Done,Maxime Simon,Julien Moreau,2026-03-31,2026-04-26,ASN-SPR-08,0,2,Critical,frontend
+ASN-023,ASN,Bug,Medium,Testing,Lea Robert,Lea Robert,2025-12-05,2026-08-08,ASN-SPR-07,3,,Minor,compliance;frontend;integration
+ASN-024,ASN,Story,Low,In Progress,Marine Leroy,Sophie Lainé,2026-03-26,2026-06-17,Backlog,1,,N/A,technical-debt;urgent
+ASN-025,ASN,Story,Medium,In Progress,Sophie Lainé,Camille Faure,2025-07-28,2026-07-31,ASN-SPR-01,13,,N/A,infrastructure
+ASN-026,ASN,Story,Low,Done,Marine Leroy,Camille Faure,2025-07-30,2025-09-10,ASN-SPR-10,2,11,N/A,security
+ASN-027,ASN,Task,High,To Do,Thomas Girard,Julien Moreau,2025-10-11,2026-07-14,ASN-SPR-04,3,,N/A,api;backend;performance
+ASN-028,ASN,Bug,High,Testing,Alexandre Fontaine,Lea Robert,2025-07-21,2026-06-17,ASN-SPR-10,3,,Critical,regression
+ASN-029,ASN,Task,Low,Done,Julien Moreau,Lea Robert,2025-10-26,2025-11-03,ASN-SPR-08,5,14,N/A,frontend;integration;mobile
+ASN-030,ASN,Task,High,To Do,Lea Robert,Lea Robert,2025-07-30,2026-08-04,ASN-SPR-08,8,,N/A,customer-reported;frontend;ui
+ASN-031,ASN,Task,High,Done,Marine Leroy,Lea Robert,2026-03-14,2026-04-25,ASN-SPR-08,5,8,N/A,regression;ui
+ASN-032,ASN,Bug,Medium,Done,Maxime Simon,Julien Moreau,2025-09-30,2025-10-16,ASN-SPR-06,0,3,Minor,urgent
+ASN-033,ASN,Bug,Low,Done,Alexandre Fontaine,Lea Robert,2025-12-24,2026-01-26,ASN-SPR-02,0,20,Trivial,api;database;urgent
+ASN-034,ASN,Story,High,To Do,Marine Leroy,Lea Robert,2026-05-09,2026-06-28,Backlog,8,,N/A,compliance;customer-reported;technical-debt
+ASN-035,ASN,Story,Medium,Done,Thomas Girard,Sophie Lainé,2025-12-31,2026-01-08,ASN-SPR-06,13,25,N/A,api;backend
+ASN-036,ASN,Task,Medium,Testing,Sophie Lainé,Camille Faure,2025-08-10,2026-07-17,ASN-SPR-06,5,,N/A,performance
+ASN-037,ASN,Story,High,Blocked,Thomas Girard,Julien Moreau,2026-02-24,2026-07-21,ASN-SPR-08,13,,N/A,customer-reported;integration;ui
+ASN-038,ASN,Story,High,Done,Sophie Lainé,Sophie Lainé,2025-06-15,2025-07-19,ASN-SPR-09,13,22,N/A,backend;database;security
+ASN-039,ASN,Story,Medium,To Do,Alexandre Fontaine,Sophie Lainé,2025-11-05,2026-07-07,ASN-SPR-08,3,,N/A,api;compliance;ui
+ASN-040,ASN,Story,Medium,Done,Sophie Lainé,Lea Robert,2026-02-21,2026-03-22,ASN-SPR-08,13,2,N/A,compliance
+ASN-041,ASN,Story,Medium,Testing,Julien Moreau,Sophie Lainé,2026-03-10,2026-06-20,ASN-SPR-10,2,,N/A,compliance;regression
+ASN-042,ASN,Task,Highest,Done,Maxime Simon,Julien Moreau,2025-08-15,2025-09-28,ASN-SPR-04,5,10,N/A,api;infrastructure
+ASN-043,ASN,Bug,Medium,Done,Alexandre Fontaine,Camille Faure,2025-07-25,2025-08-23,ASN-SPR-10,0,9,Critical,infrastructure
+ASN-044,ASN,Task,Highest,Blocked,Camille Faure,Sophie Lainé,2026-03-06,2026-08-04,ASN-SPR-08,13,,N/A,integration
+ASN-045,ASN,Story,High,In Progress,Camille Faure,Lea Robert,2025-06-01,2026-07-26,ASN-SPR-05,1,,N/A,technical-debt
+ASN-046,ASN,Task,Low,Done,Julien Moreau,Lea Robert,2025-11-08,2025-12-14,ASN-SPR-10,8,21,N/A,api;urgent
+ASN-047,ASN,Epic,Medium,Done,Thomas Girard,Julien Moreau,2026-02-23,2026-03-07,ASN-SPR-08,13,23,N/A,api;customer-reported;urgent
+ASN-048,ASN,Story,Low,Testing,Lea Robert,Julien Moreau,2026-04-19,2026-07-18,ASN-SPR-07,3,,N/A,regression;security
+ASN-049,ASN,Task,Low,Done,Thomas Girard,Sophie Lainé,2025-07-04,2025-07-16,ASN-SPR-07,3,21,N/A,customer-reported
+ASN-050,ASN,Task,Highest,Done,Thomas Girard,Julien Moreau,2025-12-16,2026-01-13,ASN-SPR-06,13,22,N/A,performance
+CLTX-001,CLTX,Story,Low,In Progress,Priya Sharma,Sarah Mitchell,2026-04-22,2026-07-07,CLTX-SPR-02,3,,N/A,infrastructure;regression;urgent
+CLTX-002,CLTX,Task,Highest,In Progress,Priya Sharma,Daniel Foster,2026-04-22,2026-06-21,CLTX-SPR-10,2,,N/A,regression
+CLTX-003,CLTX,Story,Medium,Done,Rachel Kim,Michael Torres,2025-08-30,2025-10-04,CLTX-SPR-08,2,18,N/A,performance
+CLTX-004,CLTX,Story,Medium,Testing,Jessica Wong,Daniel Foster,2026-04-23,2026-08-02,CLTX-SPR-03,2,,N/A,backend;technical-debt
+CLTX-005,CLTX,Story,Medium,Blocked,Rachel Kim,Sarah Mitchell,2026-04-07,2026-07-20,CLTX-SPR-09,2,,N/A,compliance
+CLTX-006,CLTX,Story,Low,In Progress,Jessica Wong,Sarah Mitchell,2026-01-15,2026-07-14,CLTX-SPR-04,5,,N/A,frontend;performance
+CLTX-007,CLTX,Bug,High,To Do,James O'Connor,Sarah Mitchell,2026-04-08,2026-07-06,CLTX-SPR-03,1,,Trivial,customer-reported;integration;mobile
+CLTX-008,CLTX,Bug,Highest,In Progress,Michael Torres,Michael Torres,2026-05-10,2026-08-09,CLTX-SPR-05,2,,Critical,backend
+CLTX-009,CLTX,Bug,Medium,Done,Michael Torres,Michael Torres,2025-06-03,2025-07-11,CLTX-SPR-03,0,19,Minor,backend;ui
+CLTX-010,CLTX,Story,High,Testing,David Chen,Sarah Mitchell,2026-03-24,2026-06-22,Backlog,5,,N/A,technical-debt
+CLTX-011,CLTX,Story,Medium,Done,Michael Torres,Daniel Foster,2025-10-10,2025-10-21,CLTX-SPR-10,13,22,N/A,api;infrastructure;performance
+CLTX-012,CLTX,Bug,Medium,Done,Jessica Wong,Daniel Foster,2025-08-05,2025-09-10,Backlog,0,25,Critical,security
+CLTX-013,CLTX,Bug,Medium,Done,Michael Torres,Michael Torres,2025-09-27,2025-10-23,CLTX-SPR-04,3,2,Major,compliance;performance
+CLTX-014,CLTX,Task,Low,In Progress,Daniel Foster,Michael Torres,2025-08-17,2026-06-20,Backlog,3,,N/A,integration;regression
+CLTX-015,CLTX,Story,Medium,In Progress,Priya Sharma,David Chen,2025-07-17,2026-07-30,CLTX-SPR-06,3,,N/A,integration;mobile;security
+CLTX-016,CLTX,Story,Medium,Done,Michael Torres,Michael Torres,2025-10-08,2025-10-17,Backlog,3,21,N/A,frontend
+CLTX-017,CLTX,Story,Medium,Done,Sarah Mitchell,Daniel Foster,2026-01-29,2026-02-15,CLTX-SPR-01,8,22,N/A,frontend
+CLTX-018,CLTX,Bug,Medium,Testing,Jessica Wong,David Chen,2026-06-10,2026-07-06,CLTX-SPR-03,1,,Major,mobile;performance;ui
+CLTX-019,CLTX,Story,High,To Do,David Chen,David Chen,2026-04-13,2026-07-29,CLTX-SPR-04,3,,N/A,integration;regression;security
+CLTX-020,CLTX,Bug,High,To Do,Rachel Kim,David Chen,2025-09-16,2026-07-19,CLTX-SPR-05,0,,Minor,regression
+CLTX-021,CLTX,Task,Medium,In Progress,Priya Sharma,Daniel Foster,2025-12-13,2026-07-03,CLTX-SPR-09,5,,N/A,infrastructure;integration;performance
+CLTX-022,CLTX,Epic,High,Done,Daniel Foster,Michael Torres,2025-06-06,2025-07-08,CLTX-SPR-06,13,19,N/A,compliance;frontend;integration
+CLTX-023,CLTX,Story,High,Done,Priya Sharma,Daniel Foster,2026-02-08,2026-03-24,Backlog,5,17,N/A,compliance
+CLTX-024,CLTX,Bug,High,In Progress,Michael Torres,David Chen,2025-11-27,2026-07-28,CLTX-SPR-09,0,,Major,api;technical-debt
+CLTX-025,CLTX,Story,Medium,Done,Priya Sharma,Daniel Foster,2025-08-02,2025-09-15,CLTX-SPR-10,13,20,N/A,compliance;customer-reported
+CLTX-026,CLTX,Bug,Low,To Do,James O'Connor,Michael Torres,2026-06-10,2026-07-25,CLTX-SPR-09,2,,Minor,security;technical-debt
+CLTX-027,CLTX,Story,Low,Done,Sarah Mitchell,Daniel Foster,2025-09-21,2025-10-02,CLTX-SPR-04,5,14,N/A,api;customer-reported
+CLTX-028,CLTX,Story,Medium,Done,Priya Sharma,David Chen,2026-03-12,2026-04-13,CLTX-SPR-04,8,18,N/A,frontend;security
+CLTX-029,CLTX,Story,High,To Do,James O'Connor,Daniel Foster,2026-06-09,2026-07-30,Backlog,3,,N/A,database;infrastructure;performance
+CLTX-030,CLTX,Bug,Low,Done,Priya Sharma,Sarah Mitchell,2026-03-21,2026-04-28,CLTX-SPR-06,2,8,Minor,backend
+CLTX-031,CLTX,Bug,Medium,Done,Michael Torres,Sarah Mitchell,2026-01-05,2026-01-30,CLTX-SPR-07,0,9,Major,backend;ui
+CLTX-032,CLTX,Bug,Medium,Testing,Michael Torres,David Chen,2025-11-12,2026-06-17,CLTX-SPR-02,3,,Minor,infrastructure;performance
+CLTX-033,CLTX,Epic,Medium,Testing,Sarah Mitchell,Sarah Mitchell,2025-08-30,2026-07-29,CLTX-SPR-06,13,,N/A,integration;urgent
+CLTX-034,CLTX,Bug,Low,To Do,Michael Torres,David Chen,2026-06-04,2026-06-20,CLTX-SPR-09,3,,Major,customer-reported;regression
+CLTX-035,CLTX,Bug,Low,Testing,Rachel Kim,Sarah Mitchell,2026-03-27,2026-08-04,Backlog,3,,Major,customer-reported;database;regression
+CLTX-036,CLTX,Bug,Medium,Done,James O'Connor,Daniel Foster,2026-01-19,2026-02-19,CLTX-SPR-01,0,23,Minor,performance;ui
+CLTX-037,CLTX,Bug,Medium,Testing,Priya Sharma,Daniel Foster,2026-04-24,2026-08-13,CLTX-SPR-08,3,,Major,api;performance;ui
+CLTX-038,CLTX,Story,Medium,Done,Daniel Foster,Daniel Foster,2026-01-06,2026-01-29,CLTX-SPR-04,2,9,N/A,infrastructure;security
+CLTX-039,CLTX,Task,Medium,Done,Rachel Kim,David Chen,2025-11-14,2025-12-26,CLTX-SPR-07,1,19,N/A,compliance;performance
+CLTX-040,CLTX,Epic,Low,In Progress,Daniel Foster,David Chen,2025-11-12,2026-07-28,CLTX-SPR-04,21,,N/A,regression;security;urgent
+CLTX-041,CLTX,Bug,High,Done,Michael Torres,Daniel Foster,2025-08-31,2025-09-10,CLTX-SPR-08,0,14,Critical,technical-debt
+CLTX-042,CLTX,Task,Highest,Done,Daniel Foster,Michael Torres,2026-04-17,2026-05-20,CLTX-SPR-05,13,7,N/A,security;technical-debt
+CLTX-043,CLTX,Bug,Medium,Done,James O'Connor,Michael Torres,2025-08-28,2025-09-06,Backlog,0,2,Trivial,infrastructure;integration
+CLTX-044,CLTX,Bug,Medium,Done,Priya Sharma,David Chen,2025-09-18,2025-09-27,CLTX-SPR-09,3,11,Minor,api;integration;urgent
+CLTX-045,CLTX,Story,High,To Do,Priya Sharma,Sarah Mitchell,2025-09-10,2026-07-25,CLTX-SPR-05,13,,N/A,database;infrastructure;technical-debt
+CLTX-046,CLTX,Bug,Low,Done,Rachel Kim,Sarah Mitchell,2026-02-26,2026-04-06,Backlog,2,6,Minor,database;performance
+CLTX-047,CLTX,Bug,Medium,Testing,Michael Torres,Sarah Mitchell,2025-11-03,2026-06-08,CLTX-SPR-01,1,,Minor,frontend;integration;security
+CLTX-048,CLTX,Bug,Medium,Blocked,Priya Sharma,David Chen,2026-05-23,2026-08-08,CLTX-SPR-03,1,,Minor,api;integration
+CLTX-049,CLTX,Task,Medium,Testing,James O'Connor,Daniel Foster,2026-02-17,2026-08-03,CLTX-SPR-02,13,,N/A,integration;regression;urgent
+CLTX-050,CLTX,Story,Low,To Do,Priya Sharma,Daniel Foster,2026-05-08,2026-07-23,Backlog,3,,N/A,frontend;technical-debt

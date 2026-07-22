@@ -1,0 +1,15 @@
+Risk ID,Project,Description,Probability,Impact,Risk Level
+RISK-001,RATP,Legacy SCADA integration delays due to outdated vendor APIs,High,High,Critical
+RISK-002,RATP,Key backend developer over-allocated across two workstreams,Medium,Medium,Medium
+RISK-003,RATP,Regulatory approval for onboard telemetry pending from RATP safety board,Medium,High,High
+RISK-004,RATP,Depot hardware rollout schedule slipping due to procurement delays,High,Medium,High
+RISK-005,RATP,Data migration from legacy fleet system may cause downtime,Low,High,Medium
+RISK-006,ASN,"Undersea cable test environment unavailable, blocking QA cycles",High,High,Critical
+RISK-007,ASN,Third-party satellite data feed contract renewal at risk,Medium,High,High
+RISK-008,ASN,"QA engineer workload exceeding capacity, risking test coverage",High,Medium,High
+RISK-009,ASN,Network topology visualization scope creep from client requests,Medium,Medium,Medium
+RISK-010,ASN,Security certification (ANSSI) review may delay go-live,Medium,High,High
+RISK-011,CLTX,PCI-DSS compliance audit findings requiring remediation,Low,High,Medium
+RISK-012,CLTX,Mobile banking release dependent on third-party KYC vendor,Medium,Medium,Medium
+RISK-013,CLTX,Peak transaction load testing not yet completed,Low,Medium,Low
+RISK-014,CLTX,Open Banking API scope still being finalized with client,Medium,Low,Low

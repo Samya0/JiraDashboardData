@@ -1,0 +1,25 @@
+Name,Role,Team,Capacity (%),Current Workload (%)
+Camille Laurent,Project Manager,Team Fleet (RATP),100,95
+Antoine Girard,Scrum Master,Team Fleet (RATP),100,85
+Nicolas Fabre,Backend Developer,Team Fleet (RATP),100,110
+Emma Rousseau,Backend Developer,Team Fleet (RATP),80,90
+Lucas Bernard,Frontend Developer,Team Fleet (RATP),100,100
+Chloe Petit,QA Engineer,Team Fleet (RATP),100,120
+Hugo Martin,DevOps Engineer,Team Fleet (RATP),60,70
+Manon Dubois,Business Analyst,Team Fleet (RATP),80,75
+Julien Moreau,Project Manager,Team Submarine (ASN),100,100
+Sophie Lainé,Scrum Master,Team Submarine (ASN),100,90
+Thomas Girard,Backend Developer,Team Submarine (ASN),100,115
+Marine Leroy,Backend Developer,Team Submarine (ASN),100,105
+Alexandre Fontaine,Frontend Developer,Team Submarine (ASN),80,95
+Lea Robert,QA Engineer,Team Submarine (ASN),100,130
+Maxime Simon,DevOps Engineer,Team Submarine (ASN),60,80
+Camille Faure,Business Analyst,Team Submarine (ASN),60,55
+Sarah Mitchell,Project Manager,Team Digital Banking (Client X),100,90
+David Chen,Scrum Master,Team Digital Banking (Client X),100,80
+Priya Sharma,Backend Developer,Team Digital Banking (Client X),100,95
+James O'Connor,Backend Developer,Team Digital Banking (Client X),100,85
+Rachel Kim,Frontend Developer,Team Digital Banking (Client X),100,90
+Michael Torres,QA Engineer,Team Digital Banking (Client X),100,100
+Jessica Wong,DevOps Engineer,Team Digital Banking (Client X),80,75
+Daniel Foster,Business Analyst,Team Digital Banking (Client X),60,60
