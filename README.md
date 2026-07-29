@@ -13,16 +13,21 @@ This project was built as a prototype/demo: representative fake data stands in f
 
 ```
 JiraDashboardData/
+├── assets/
+│   ├── dashboard-screenshot.png
+│   ├── dashboard-screenshot1.png
+│   └── dashboard-screenshot2.png
 ├── data/
-│   ├── 01_projects.csv          # One row per project (3 fictional client projects)
-│   ├── 02_sprints.csv           # Sprint history and progress per project
-│   ├── 03_issues.csv            # 150+ issues across all three projects
-│   ├── 04_team_members.csv      # Team roster, capacity, and workload
-│   ├── 05_releases.csv          # Planned vs actual release dates
+│   ├── 01_projects.csv          # One row per project
+│   ├── 02_sprints.csv           # Sprint history and progress
+│   ├── 03_issues.csv            # Jira-style issues
+│   ├── 04_team_members.csv      # Team workload and capacity
+│   ├── 05_releases.csv          # Planned vs actual releases
 │   ├── 06_risks.csv             # Project risk register
-│   └── 07_executive_kpis.csv    # Pre-aggregated KPIs per project
-└── dashboards/
-    └── project-health-dashboard.json   # Exported Grafana dashboard
+│   └── 07_executive_kpis.csv    # Executive KPIs
+├── dashboards/
+│   └── project-health-dashboard.json
+└── README.md
 ```
 
 ---
