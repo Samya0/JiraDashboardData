@@ -6,6 +6,7 @@ A sample Jira-style dataset and Grafana dashboard for an executive-level softwar
 
 This project was built as a prototype/demo: representative fake data stands in for a real Jira instance, so the dashboard can be developed, tested, and presented without depending on live company data. The architecture is designed so the data source can later be swapped for a real Jira connection with minimal changes to the dashboard itself.
 
+![Dashboard screenshot](assets/dashboard-screenshot.png)
 ---
 
 ## Repository structure
